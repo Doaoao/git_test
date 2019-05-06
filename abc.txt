@@ -7,3 +7,4 @@ this is master change
 this is new_branch2 change
 >>>>>>> new_branch2
 this is new_branch change
+change
