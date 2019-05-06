@@ -1,4 +1,8 @@
 helloworld
 hahahahahhaha
 ssssss1
+<<<<<<< HEAD
 this is master change
+=======
+this is new_branch2 change
+>>>>>>> new_branch2
